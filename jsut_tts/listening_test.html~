@@ -1,0 +1,193 @@
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>合成音声評価音声再生シート</title>
+</head>
+<body>
+<H2>合成音声評価音声再生シート</H2>
+
+<table border=1>
+<tr>
+<td> No. 1 </td>
+<td><audio src=wav/1.wav controls></audio></td>
+<td rowspan=30> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+<td> No. 31 </td>
+<td><audio src=wav/31.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 2 </td>
+<td><audio src=wav/2.wav controls></audio></td>
+<td> No. 32 </td>
+<td><audio src=wav/32.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 3 </td>
+<td><audio src=wav/3.wav controls></audio></td>
+<td> No. 33 </td>
+<td><audio src=wav/33.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 4 </td>
+<td><audio src=wav/4.wav controls></audio></td>
+<td> No. 34 </td>
+<td><audio src=wav/34.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 5 </td>
+<td><audio src=wav/5.wav controls></audio></td>
+<td> No. 35 </td>
+<td><audio src=wav/35.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 6 </td>
+<td><audio src=wav/6.wav controls></audio></td>
+<td> No. 36 </td>
+<td><audio src=wav/36.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 7 </td>
+<td><audio src=wav/7.wav controls></audio></td>
+<td> No. 37 </td>
+<td><audio src=wav/37.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 8 </td>
+<td><audio src=wav/8.wav controls></audio></td>
+<td> No. 38 </td>
+<td><audio src=wav/38.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 9 </td>
+<td><audio src=wav/9.wav controls></audio></td>
+<td> No. 39 </td>
+<td><audio src=wav/39.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 10 </td>
+<td><audio src=wav/10.wav controls></audio></td>
+<td> No. 40 </td>
+<td><audio src=wav/40.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 11 </td>
+<td><audio src=wav/11.wav controls></audio></td>
+<td> No. 41 </td>
+<td><audio src=wav/41.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 12 </td>
+<td><audio src=wav/12.wav controls></audio></td>
+<td> No. 42 </td>
+<td><audio src=wav/42.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 13 </td>
+<td><audio src=wav/13.wav controls></audio></td>
+<td> No. 43 </td>
+<td><audio src=wav/43.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 14 </td>
+<td><audio src=wav/14.wav controls></audio></td>
+<td> No. 44 </td>
+<td><audio src=wav/44.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 15 </td>
+<td><audio src=wav/15.wav controls></audio></td>
+<td> No. 45 </td>
+<td><audio src=wav/45.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 16 </td>
+<td><audio src=wav/16.wav controls></audio></td>
+<td> No. 46 </td>
+<td><audio src=wav/46.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 17 </td>
+<td><audio src=wav/17.wav controls></audio></td>
+<td> No. 47 </td>
+<td><audio src=wav/47.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 18 </td>
+<td><audio src=wav/18.wav controls></audio></td>
+<td> No. 48 </td>
+<td><audio src=wav/48.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 19 </td>
+<td><audio src=wav/19.wav controls></audio></td>
+<td> No. 49 </td>
+<td><audio src=wav/49.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 20 </td>
+<td><audio src=wav/20.wav controls></audio></td>
+<td> No. 50 </td>
+<td><audio src=wav/50.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 21 </td>
+<td><audio src=wav/21.wav controls></audio></td>
+<td> No. 51 </td>
+<td><audio src=wav/51.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 22 </td>
+<td><audio src=wav/22.wav controls></audio></td>
+<td> No. 52 </td>
+<td><audio src=wav/52.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 23 </td>
+<td><audio src=wav/23.wav controls></audio></td>
+<td> No. 53 </td>
+<td><audio src=wav/53.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 24 </td>
+<td><audio src=wav/24.wav controls></audio></td>
+<td> No. 54 </td>
+<td><audio src=wav/54.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 25 </td>
+<td><audio src=wav/25.wav controls></audio></td>
+<td> No. 55 </td>
+<td><audio src=wav/55.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 26 </td>
+<td><audio src=wav/26.wav controls></audio></td>
+<td> No. 56 </td>
+<td><audio src=wav/56.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 27 </td>
+<td><audio src=wav/27.wav controls></audio></td>
+<td> No. 57 </td>
+<td><audio src=wav/57.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 28 </td>
+<td><audio src=wav/28.wav controls></audio></td>
+<td> No. 58 </td>
+<td><audio src=wav/58.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 29 </td>
+<td><audio src=wav/29.wav controls></audio></td>
+<td> No. 59 </td>
+<td><audio src=wav/59.wav controls></audio></td>
+</tr>
+<tr>
+<td> No. 30 </td>
+<td><audio src=wav/30.wav controls></audio></td>
+<td> No. 60 </td>
+<td><audio src=wav/60.wav controls></audio></td>
+</tr>
+</table>
+</body>
+</html>
